@@ -71,7 +71,6 @@
     <Folder Include="Resources\Pages\" />
     <Folder Include="Resources\Sql\" />
     <Folder Include="Resources\Widgets\" />
-    <Folder Include="RestApi\Entitles\" />
     <Folder Include="WidgetApi\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
